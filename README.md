@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @thanosmoschou
+# 👋 Hi, I’m Thanos
 
 - 👨‍🎓 I'm studying Applied Informatics at University of Macedonia
 - 👀 I’m interested in Software Development and Security
