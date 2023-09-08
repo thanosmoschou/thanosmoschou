@@ -4,9 +4,7 @@
 - 👀 I’m interested in Software Development and Security
 
 ### 🔥 My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&theme=neon&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
