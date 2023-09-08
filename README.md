@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @thanosmoschou
 
 - 👨‍🎓 I'm studying Applied Informatics at University of Macedonia
-- 👀 I’m interested in Security
-- 🌱 I’m currently learning Binary Exploitation
+- 👀 I’m interested in Software Development and Security
 
 ### 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)
