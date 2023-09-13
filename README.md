@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thanos
 
-- 👨‍🎓 I'm studying Applied Informatics in University of Macedonia
+- 👨‍🎓 I'm studying Applied Informatics at University of Macedonia
 - 👀 I’m interested in Software Development and Security
 
 ### 🔥 My Stats:
