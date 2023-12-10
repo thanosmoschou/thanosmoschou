@@ -5,7 +5,8 @@
 
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&theme=neon&show_icons=true)
 
 
 
