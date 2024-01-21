@@ -7,7 +7,7 @@
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![](https://komarev.com/ghpvc/?username=thanosmoschou)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thanosmoschou=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=transparent)
 
 
 
