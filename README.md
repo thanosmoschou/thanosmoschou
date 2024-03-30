@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Thanos
 
 - 👨‍🎓 I'm studying Applied Informatics at University of Macedonia
-- 👀 I’m interested in Software Development and Security
+- 👀 I’m interested in Software Development
+
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,html,css,php,mysql,spring,docker,linux&perline=3&theme=dark)](https://skillicons.dev)
 
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats) <br>
