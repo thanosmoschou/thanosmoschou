@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,html,css,php,mysql,spring,docker,linux,androidstudio&perline=3&theme=dark)](https://skillicons.dev)
 
 ### 🔥 My Stats:
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats) <br>
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
