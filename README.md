@@ -16,7 +16,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon)--> <br>
 
