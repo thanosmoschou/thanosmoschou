@@ -8,10 +8,10 @@ I am particularly interested in Android development, as well as in Backend devel
 Currently, I am learning Docker and Spring Boot but one of my future goals is to learn Kotlin and Jetpack Compose to expand my knowledge in Android development. 
 
 ### Technologies/Languages I have used:
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,html,css,php,mysql,docker,linux,androidstudio&perline=3&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,html,css,php,git,spring,mysql,docker,linux,androidstudio&perline=3&theme=dark)](https://skillicons.dev)
 
-### Technologies I am more familiar with:
-[![My Skills](https://skillicons.dev/icons?i=git,java,spring&perline=3&theme=dark)](https://skillicons.dev)
+### Technologies/Languages I am more familiar with:
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,spring&perline=3&theme=dark)](https://skillicons.dev)
 
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)<br>
