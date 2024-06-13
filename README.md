@@ -29,6 +29,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 [![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Maven](https://img.shields.io/badge/Maven-black?logo=apachemaven&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
 
