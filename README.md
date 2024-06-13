@@ -16,6 +16,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Maven](https://img.shields.io/badge/Maven-black?logo=maven&style=for-the-badge)(https://github.com/thanosmoschou)
 [![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Docker](https://img.shields.io/badge/Docker-black?logo=docker&style=for-the-badge)](https://github.com/thanosmoschou)
