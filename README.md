@@ -5,13 +5,31 @@
 I am Thanos Moschou, a student of Applied Informatics at the University of Macedonia. I have experimented with various programming languages (such as C, Java, Python) and technologies (such as Docker, Spring Boot, Android), both through my courses at university and on my own in my free time. I enjoy software development, love writing code, and am eager to learn as much as possible, to improve myself and help the team I am part of, to achieve their goals. </br></br>
 
 I am particularly interested in Android development, as well as in Backend development with Java and Spring Boot. </br></br>
-Currently, I am learning Docker and Spring Boot but one of my future goals is to learn Kotlin and Jetpack Compose to expand my knowledge in Android development. 
+Currently, I am learning Docker and Spring Boot but one of my future goals is to learn Kotlin and Jetpack Compose to expand my knowledge in Android development.
 
 ### Technologies/Languages I have used:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,cs,html,css,php,git,spring,mysql,docker,linux,androidstudio&perline=3&theme=dark)](https://skillicons.dev)
+
+[![C](https://img.shields.io/badge/C-black?logo=C&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)](https://github.com/thanosmoschou)
+[![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![CSS](https://img.shields.io/badge/CSS-black?logo=css3&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge)](https://github.com/thanosmoschou)
 
 ### Technologies/Languages I am more familiar with:
-[![My Skills](https://skillicons.dev/icons?i=java,python,git,spring&perline=3&theme=dark)](https://skillicons.dev)
+
+[![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
 
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)<br>
@@ -20,7 +38,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon)--> <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br>
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br> -->
 
 <!---
 thanosmoschou/thanosmoschou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
