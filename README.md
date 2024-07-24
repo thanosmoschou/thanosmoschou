@@ -14,7 +14,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 [![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)](https://github.com/thanosmoschou)
 [![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3&&style=for-the-badge)](https://github.com/thanosmoschou)
-[![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E?logo=javascript&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Maven](https://img.shields.io/badge/Maven-black?logo=apachemaven&style=for-the-badge)](https://github.com/thanosmoschou)
