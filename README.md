@@ -41,7 +41,7 @@ Currently, I am learning Docker and Spring Boot but one of my future goals is to
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon) <br> -->
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br> -->
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br>-->
 
 <!---
 thanosmoschou/thanosmoschou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
