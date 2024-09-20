@@ -12,6 +12,7 @@ Currently, I am learning Go but one of my future goals is to learn Kotlin and Je
 [![C](https://img.shields.io/badge/C-black?logo=C&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Go](https://img.shields.io/badge/Go-black?logo=go&style=for-the-badge)](https://github.com/thanosmoschou)
 [![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&&style=for-the-badge)](https://github.com/thanosmoschou)
