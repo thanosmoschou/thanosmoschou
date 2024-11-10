@@ -25,6 +25,7 @@ Currently, I am learning Go but one of my future goals is to learn Kotlin and Je
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino&style=for-the-badge)](https://github.com/thanosmoschou)
 
 ### Technologies/Languages I am more familiar with:
 
