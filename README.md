@@ -16,16 +16,20 @@ Currently, I am learning Go.
 [![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&&style=for-the-badge)](https://github.com/thanosmoschou)
+[![React](https://img.shields.io/badge/React-black?logo=react&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![PHP](https://img.shields.io/badge/PHP-black?logo=php&logoColor=white&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Maven](https://img.shields.io/badge/Maven-black?logo=apachemaven&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Gradle](https://img.shields.io/badge/Gradle-black?logo=gradle&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Docker](https://img.shields.io/badge/Docker-black?logo=docker&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Windows](https://img.shields.io/badge/Windows-black?logo=windows&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Arduino](https://img.shields.io/badge/Arduino-black?logo=arduino&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Postman](https://img.shields.io/badge/Postman-black?logo=postman&&style=for-the-badge)](https://github.com/thanosmoschou)
 
 ### Technologies/Languages I am more familiar with:
 
@@ -35,6 +39,7 @@ Currently, I am learning Go.
 [![Maven](https://img.shields.io/badge/Maven-black?logo=apachemaven&style=for-the-badge)](https://github.com/thanosmoschou)
 [![Spring](https://img.shields.io/badge/Spring-black?logo=spring&&style=for-the-badge)](https://github.com/thanosmoschou)
 [![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)](https://github.com/thanosmoschou)
+[![Postman](https://img.shields.io/badge/Postman-black?logo=postman&&style=for-the-badge)](https://github.com/thanosmoschou)
 
 ### 🔥 My Stats:
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=thanosmoschou&theme=neon)](https://git.io/streak-stats)<br>
