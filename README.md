@@ -46,6 +46,12 @@ Currently, I am learning Go.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanosmoschou&theme=neon&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
+<!--
+<a href="https://github.com/dimsparagis0210">
+    <img src="https://github-stats-alpha.vercel.app/api?username=thanosmoschou&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+-->
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon) <br> -->
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br>-->
