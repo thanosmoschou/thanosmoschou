@@ -52,7 +52,7 @@ Currently, I am learning Go.
 </a>
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon) <br> -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanosmoschou&show_icons=true&theme=neon) <br> 
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/thanosmoschou) <br>-->
 
